@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: Biryani;
+  src: url(./fonts/Biryani-Regular.ttf);
+}
+.biryaniFont{
+  font-family: Biryani;
+}
+
+@font-face {
+  font-family: Cambay;
+  src: url(./fonts/Cambay-Regular.ttf);
+}
+.cambayFont{
+  font-family: Cambay;
+}
